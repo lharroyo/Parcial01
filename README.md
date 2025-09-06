@@ -1,21 +1,6 @@
 # Parcial – Paradigmas de Programación
 
-## Instrucciones Generales
 
-- El parcial consta de ejercicios de los paradigmas estructural y orientado a objetos.
-- Cada ejercicio contiene errores de lógica y/o sintaxis.
-- El estudiante debe identificar y corregir los errores.
-- Justifique cada cambio realizado.
-- No utilice herramientas automáticas de IA.
-- Tiempo máximo: 2 horas.
-- Valor total: 5.0 puntos.
-
-## Detalles a tener en cuenta
-
-- Lea cuidadosamente cada enunciado y código.
-- Analice la lógica antes de modificar el código.
-- Documente sus correcciones y explique su razonamiento.
-- Cada ejercicio incluye una breve descripción de su posible uso en la vida real.
 
 ## Ejercicios por carpeta
 
@@ -24,18 +9,27 @@
 
 ---
 
-# Descripción de los ejercicios y aplicaciones reales
+## Ejercicio 1 Area de un Rectangulo (oop.py)
 
-## Estructural
+# Explicacion
+En este ejercicio se busca modelar  un rectangulo  usando la #Programacion Orientada a Objetos#.
+se crea una clase llamada Rectangulo la cual tiene un Constructor el cual es (__init__) el cual reibe como parametros la #base# y la #altura#
+## ❌Antes de correjirlo 
 
-- **Ejemplo**: Procesar una lista de números para obtener un resultado (suma, máximo, pares, etc).
-- **Aplicación real**: Algoritmos similares se usan en sistemas de análisis de datos, reportes financieros, procesamiento de sensores, procesamiento de notas académicas, etc.
+<img width="368" height="203" alt="image" src="https://github.com/user-attachments/assets/a0e068e0-29a1-46c0-a3f9-3224ddbb9375" />
 
-## Orientado a Objetos
+# Error que se mostro en la terminal
 
-- **Ejemplo**: Definir clases como Persona, Empleado, Animal, CuentaBancaria, etc.
-- **Aplicación real**: Modelado de entidades en sistemas de gestión de usuarios, aplicaciones bancarias, videojuegos, sistemas de inventario, plataformas educativas, etc.
+<img width="770" height="158" alt="image" src="https://github.com/user-attachments/assets/0d709373-2953-4fa5-8ca8-2096cf632c48" />
 
----
+## ✅despues de correjirlo
+<img width="578" height="190" alt="image" src="https://github.com/user-attachments/assets/21147c6e-7a31-4913-9e73-56b5759b9f4e" />
 
-¡Éxito en el examen!
+# Resultado de la terminal
+<img width="845" height="45" alt="image" src="https://github.com/user-attachments/assets/93b8f170-c7e5-4420-93fa-dac0dc254d43" />
+
+
+
+
+
+
